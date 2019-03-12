@@ -1,0 +1,17 @@
+{
+    "name": "enumjs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "prettier": "prettier --single-quote --tab-width 4 --trailing-comma es5 --write './**/*.{js,json}'"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^24.4.0",
+        "prettier": "^1.16.4"
+    }
+}
