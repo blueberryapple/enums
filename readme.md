@@ -5,5 +5,5 @@ writing something like `const string1 = 'string1'` is very annoying to do, it's 
 ```js
 const {enums} = require('./enums');
 
-enums(['SOME_ENUM']) // {'SOME_ENUM: 'SOME_ENUM'}
+enums(['SOME_ENUM']) // {SOME_ENUM: 'SOME_ENUM'}
 ```
